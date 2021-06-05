@@ -18,7 +18,7 @@ const App = () => {
       <hr />
       <MonacoEditor
         width="100%"
-        height="100%"
+        height="100vh"
         language="javascript"
         theme="vs-dark"
         value={'console.log("hello world")'}
