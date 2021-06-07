@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/app.scss"],"names":[],"mappings":"AAEE,QACE,iBAAA","file":"main.64022555.chunk.css","sourcesContent":["@import '~antd/dist/antd.css';\n.app {\n  h2 {\n    text-align: center;\n  }\n}"]}
