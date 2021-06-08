@@ -6,6 +6,14 @@
 
 [线上地址](https://wuhaohao1234.github.io/form-generator-react)
 
+## example
+
+![banner](./assets/banner.png)
+
+<hr/>
+
+![edit](./assets/edit.png)
+
 ## 参考
 
 [参考示例](https://jakhuang.github.io/form-generator/#/)

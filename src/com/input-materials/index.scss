@@ -1,0 +1,16 @@
+.input-merterials {
+  border-right: 1px solid #ccc;
+  width: 30%;
+  height: 100vh;
+  .item {
+    padding: 20px;
+    .content {
+      display: grid;
+      grid-template-columns: 45% 45%;
+      grid-gap: 10%;
+      .ant-btn {
+        width: 100%;
+      }
+    }
+  }
+}
